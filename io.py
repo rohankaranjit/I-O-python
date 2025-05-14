@@ -10,3 +10,8 @@
 # f.write("\nThis is new text.")
 # f.close()
 
+
+#WE DONT NEED TO CLOSE FOR THIS 
+# with open("practice.txt", "r") as f:
+#     content = f.read()
+#     print(content)
